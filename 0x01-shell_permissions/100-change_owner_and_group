@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown -R vicent:staff 0-shell_permissions
+sudo chown vicent:staff*
