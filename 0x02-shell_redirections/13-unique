@@ -1,2 +1,0 @@
-#!/bin/bash
-sort | uniq -c | grep 1 |awk '{print $2}'
